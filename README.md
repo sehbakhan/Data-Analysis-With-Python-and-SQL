@@ -8,7 +8,7 @@ Build an end-to-end customer purchase behaviour analysis and reporting system us
 
 ### Problem Statement:
 
-You are provided with a dataset containing customer purchase information for an online retail company. The dataset includes the following details:
+Dataset containing customer purchase information for an online retail company. The dataset includes the following details:
 
 - Transaction ID
 - Customer ID
@@ -21,7 +21,7 @@ You are provided with a dataset containing customer purchase information for an 
 - Purchase Date
 - Country
 
-Your task is to create a comprehensive customer purchase behavior analysis and reporting system by following the steps outlined below:
+The task is to create a comprehensive customer purchase behavior analysis and reporting system by following the steps outlined below:
 
 ### Tasks and Deliverables:
 
