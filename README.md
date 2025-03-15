@@ -4,7 +4,7 @@
 
 ### Objective:
 
-Build an end-to-end customer purchase behaviour analysis and reporting system using SQL, Python, and PowerBI. This project will help you understand customer purchase patterns, and key performance indicators, and generate insightful reports for business decision-making.
+Build an end-to-end customer purchase behaviour analysis and reporting system using SQL, Python, and PowerBI. This project will help you understand customer purchase patterns and key performance indicators, and generate insightful reports for business decision-making.
 
 ### Problem Statement:
 
@@ -37,7 +37,7 @@ The task is to create a comprehensive customer purchase behavior analysis and re
 
 ### 2. Data Analysis (Python):
 
-- **Data Extraction**: Write a Python script to extract data from the SQL database.
+
 - **Data Analysis**: Perform the following analysis using basic Python:
     - Calculate total purchases, total revenue, and average purchase value.
     - Identify top customers and their purchasing behavior.
