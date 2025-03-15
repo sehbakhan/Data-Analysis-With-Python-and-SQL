@@ -41,7 +41,7 @@ The task is to create a comprehensive customer purchase behavior analysis and re
 - **Data Analysis**: Perform the following analysis using basic Python:
     - Calculate total purchases, total revenue, and average purchase value.
     - Identify top customers and their purchasing behavior.
-    - Analyze purchase trends over time (monthly, quarterly, yearly).
+    - Analyze purchase trends over time (monthly, quarterly).
     - Identify the top-performing product categories.
     - Generate a summary report with key insights.
 
